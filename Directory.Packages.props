@@ -5,9 +5,9 @@
   </PropertyGroup>
   <ItemGroup>
     <!--    add your PackageVersion nodes here -->
-    <PackageVersion Include="Ardalis.Result" Version="7.2.0" />
+    <PackageVersion Include="Ardalis.Result" Version="10.1.0" />
     <PackageVersion Include="Ardalis.Result.AspNetCore" Version="7.2.0" />
-    <PackageVersion Include="Ardalis.Result.FluentValidation" Version="7.2.0" />
+    <PackageVersion Include="Ardalis.Result.FluentValidation" Version="10.1.0" />
     <PackageVersion Include="EntityFrameworkCore.Exceptions.PostgreSQL" Version="8.1.2" />
     <PackageVersion Include="Mapster.EFCore" Version="5.1.1" />
     <PackageVersion Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.4" />
@@ -17,7 +17,7 @@
     <PackageVersion Include="OpenTelemetry.Exporter.OpenTelemetryProtocol" Version="1.8.0" />
     <PackageVersion Include="OpenTelemetry.Instrumentation.Http" Version="1.8.0" />
     <PackageVersion Include="StronglyTypedId" Version="1.0.0-beta07" />
-    <PackageVersion Include="FluentValidation" Version="11.9.1" />
+    <PackageVersion Include="FluentValidation" Version="11.9.2" />
     <PackageVersion Include="MediatR" Version="12.2.0" />
     <PackageVersion Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
     <PackageVersion Include="Microsoft.EntityFrameworkCore" Version="8.0.4" />
